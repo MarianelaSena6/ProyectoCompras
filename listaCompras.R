@@ -1,8 +1,10 @@
 #install.packages("rjason")
+library(jsonlite)
 library(rjson)
 library(dplyr)
 library(tidyr)
 library(date)
+
 
 #setwd("C:.../Proyectos/compras") Set working directory
 
